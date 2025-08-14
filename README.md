@@ -43,7 +43,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ## 📱 Platform Pages & Functionality
 
-### 🏠 Landing Page (`/`)
+### 🏠 Landing Page 
 **Purpose**: Marketing and onboarding interface for new healthcare organizations
 
 **Features**:
@@ -59,7 +59,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 🔐 Authentication (`/login`)
+### 🔐 Authentication (Login)
 **Purpose**: Secure user authentication with healthcare-grade security
 
 **Features**:
@@ -75,7 +75,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 📊 Dashboard (`/dashboard`)
+### 📊 Dashboard (Dashboard)
 **Purpose**: Central command center for healthcare operations overview
 
 **Features**:
@@ -109,7 +109,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 🤖 AI Call Reception (`/ai-calls`)
+### 🤖 AI Call Reception (AI- Calls)
 **Purpose**: Advanced AI-powered call handling and patient interaction management
 
 **Features**:
@@ -146,7 +146,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 👥 Patient Management (`/patients`)
+### 👥 Patient Management (Patients)
 **Purpose**: Comprehensive patient record management and healthcare coordination
 
 **Features**:
@@ -190,7 +190,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 📈 Analytics Dashboard (`/analytics`)
+### 📈 Analytics Dashboard (Analytics)
 **Purpose**: Comprehensive healthcare analytics and performance monitoring
 
 **Features**:
@@ -233,7 +233,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### ⚙️ Configuration (`/configuration`)
+### ⚙️ Configuration (Configuration)
 **Purpose**: System-wide settings and customization for healthcare organizations
 
 **Features**:
@@ -297,7 +297,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 🛡️ Compliance & Security (`/compliance`)
+### 🛡️ Compliance & Security (Compliance)
 **Purpose**: Comprehensive HIPAA/GDPR compliance monitoring and audit management
 
 **Features**:
@@ -365,7 +365,7 @@ A comprehensive, HIPAA/GDPR-compliant AI-powered voice agent platform designed s
 
 ---
 
-### 🎙️ Voice Agent Configuration (`/voice-agent`)
+### 🎙️ Voice Agent Configuration (Voice Agent)
 **Purpose**: Advanced voice AI setup and customization for healthcare interactions
 
 **Features**:
